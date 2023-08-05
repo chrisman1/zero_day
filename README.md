@@ -1,1 +1,1 @@
-My readme for zero day directory
+Vagrant dir
